@@ -1,0 +1,1 @@
+export class InsertDataException extends Error { }

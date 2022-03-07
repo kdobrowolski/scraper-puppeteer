@@ -1,0 +1,21 @@
+{
+  "name": "scraper-puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "knex": "^1.0.3",
+    "mysql": "^2.18.1",
+    "puppeteer": "^13.5.0"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.21"
+  }
+}
